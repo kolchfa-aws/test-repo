@@ -10,4 +10,4 @@
 
 ## Why use OpenSearch?
 <style>p{color:red;}</style>
-Witsh OpenSearch, you can prerform the following ushe cases.
+<p>Witsh OpenSearch, you can prerform the following ushe cases.</p>
