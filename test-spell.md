@@ -1,5 +1,7 @@
 # Getting started
 
+<style>p{color:red;}</style>
+
 - [About OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/)
 - [Quickstart]({{site.url}}{{site.baseurl}}/quickstart/)
 - [Install OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/install/)
