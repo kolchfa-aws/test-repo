@@ -1,6 +1,6 @@
 # Getting started
 
-<style>p{color:red;}</style>
+
 
 - [About OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/)
 - [Quickstart]({{site.url}}{{site.baseurl}}/quickstart/)
@@ -9,5 +9,5 @@
 - [See the FAQ](https://opensearch.org/faq)
 
 ## Why use OpenSearch?
-
+<style>p{color:red;}</style>
 Witsh OpenSearch, you can prerform the following ushe cases.
