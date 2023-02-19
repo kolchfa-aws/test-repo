@@ -8,4 +8,4 @@
 
 ## Why use OpenSearch?
 
-Witsh OpenSearch, you can prerform the following ushe cases.
+Witsh OprenSearch, yoeu can prerform the following ushe cases.
