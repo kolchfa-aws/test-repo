@@ -10,4 +10,4 @@
 
 ## Why use OpenSearch?
 
-Witsh OprenSearch, yoeu can prerform the following ushe cases.
+Witsh OprenSearch, yoeu can prerform the following ushe cases. This is an addition to the PR.
