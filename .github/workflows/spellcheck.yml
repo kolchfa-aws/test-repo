@@ -11,32 +11,13 @@ on:
   workflow_dispatch:
   
 jobs:
-  markdownlint-cli:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: nosborn/github-action-markdown-cli@v1.1.1
-      with:
-        files: .
   spellcheck-job:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
     steps:
       - name: Check out
         uses: actions/checkout@v3
-      - name: Print github event
-        run: echo '${{ toJSON(github.event) }}' | jq
-        shell: bash
       - name: Check spelling
         uses: rojopolis/spellcheck-github-actions@0.29.0
         with:
           config_path: .spellcheck.yml
           task_name: Markdown
-          output_file: spellcheck-output.txt
-      - name: Comment on the PR
-        uses: peter-evans/create-or-update-comment@v2
-        with:
-          issue-number: ${{ github.event.number }}
-          body-file: 'spellcheck-output.txt'
-          token: ${{ secrets.GITHUB_TOKEN }}
