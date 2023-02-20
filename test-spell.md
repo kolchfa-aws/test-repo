@@ -9,5 +9,5 @@
 - [See the FAQ](https://opensearch.org/faq)
 
 ## Why use OpenSearch?
-<style>p{color:red;}</style>
-<p>Witsh OpenSearch, you can prerform the following ushe cases.</p>
+
+With OpenSearch, yoeu can prerform the following ushe cases. This is an addition to the PR.
