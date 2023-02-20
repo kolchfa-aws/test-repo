@@ -21,3 +21,9 @@ jobs:
         with:
           config_path: .spellcheck.yml
           task_name: Markdown
+          output_file: spellcheck-output.txt
+      - name: Comment on the PR
+        uses: peter-evans/create-or-update-comment@v2
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body-file: 'spellcheck-output.txt'
