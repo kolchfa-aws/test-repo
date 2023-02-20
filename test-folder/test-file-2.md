@@ -1,3 +1,3 @@
 # Getting starte
 
-This is a text with a new mispeling added now
+This is a text with a new mispeling added no
