@@ -30,3 +30,4 @@ jobs:
         with:
           issue-number: ${{ github.event.number }}
           body-file: 'spellcheck-output.txt'
+          token: ${{ secrets.GITHUB_TOKEN }}
