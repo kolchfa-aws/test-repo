@@ -19,5 +19,10 @@ jobs:
 
       - name: Run vale
         uses: errata-ai/vale-action@reviewdog
+        with:
+          debug: true
+          styles: |
+            https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip
+            https://github.com/errata-ai/Microsoft/releases/latest/download/Microsoft.zip
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
