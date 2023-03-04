@@ -5,7 +5,7 @@ on:
   # Run Sunday at 11:00 PM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
     - cron: "0 23 * * 0"
  
- workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   markdown-link-check:
