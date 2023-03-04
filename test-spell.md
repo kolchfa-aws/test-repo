@@ -12,3 +12,7 @@
 <style>p{color:red;}</style>
 <p>Witsh OpenSearch, you can prerform the following ushe cases.</p>
 ![horizontal_rule](https://user-images.githubusercontent.com/105444904/221718101-79ec21db-a3b9-4656-877d-bba707ec76bd.png)
+
+- [Okta](https://developer.okta.com/docs/api/resources/oidc#well-knownopenid-configuration)
+- [IBM OpenID Connect](https://www.ibm.com/support/knowledgecenter/en/SSEQTP_8.5.5/com.ibm.websphere.wlp.doc/ae/rwlp_oidc_endpoint_urls.html)
+- see [Editing a detector]({{site.url}}{{site.baseurl}}/security-analytics/usage/detectors/#editing-a-detector)
