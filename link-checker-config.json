@@ -1,7 +1,7 @@
 {
   "replacementPatterns": [
     {
-      "pattern": "^{{site.url}}{{site.baseurl}}/"
+      "pattern": "^{{site.url}}{{site.baseurl}}/",
       "replacement": "https://opensearch.org/docs/latest/"
     }
   ],
