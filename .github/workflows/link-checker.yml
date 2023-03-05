@@ -2,12 +2,8 @@ name: Check links on push
 
 on:
   push:
-    paths:
-      - '**/*.md'
   pull_request:
-    paths:
-      - '**/*.md'
- 
+   
   workflow_dispatch:
 
 jobs:
