@@ -7,6 +7,7 @@
 - [Install OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/install/)
 - [Install OpenSearch Dashboards]({{site.url}}{{site.baseurl}}/dashboards/install/)
 - [See the FAQ](https://opensearch.org/faq)
+- [See the FAQ bad](https://opensearch.org/faqs)
 
 ## Why use OpenSearch?
 <style>p{color:red;}</style>
