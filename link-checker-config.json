@@ -2,7 +2,7 @@
   "replacementPatterns": [
     {
       "pattern": "^{{site.url}}{{site.baseurl}}/",
-      "replacement": "{{BASEURL}}/_"
+      "replacement": "/_"
     }
   ],
   "timeout": "40s",
