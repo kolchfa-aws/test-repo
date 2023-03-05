@@ -25,3 +25,4 @@ jobs:
         use-verbose-mode: 'yes'
         config-file: 'link-checker-config.json'
         check-modified-files-only: 'yes'
+        base-branch: 'main'
