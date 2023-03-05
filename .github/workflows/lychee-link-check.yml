@@ -17,7 +17,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v1.6.1
         with:
-          args:  --verbose --max-redirects 10 --remap r#'{{site.url}}{{site.baseurl}} https://opensearch.org/docs/latest'# './**/*.md'
+          args:  --verbose --max-redirects 10 --remap '{{{{{{site.url}}}}}}{{{{{{site.baseurl}}}}}} https://opensearch.org/docs/latest'# './**/*.md'
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
