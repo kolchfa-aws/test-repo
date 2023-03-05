@@ -2,14 +2,9 @@ name: Check links on push
 
 on:
   push:
-    branches:
-      - main
     paths:
       - '**.md'
   pull_request:
-    types: [opened, edited]
-    branches:
-      - main
     paths:
       - '**.md'
  
