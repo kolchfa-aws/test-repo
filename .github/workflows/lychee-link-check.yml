@@ -27,4 +27,7 @@ jobs:
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
-  
+          assignees: kolchfa-aws
+          labels: |
+            report
+            automated issue
