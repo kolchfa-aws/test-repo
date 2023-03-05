@@ -1,0 +1,9 @@
+{
+  "replacementPatterns": [
+    {
+      "pattern": "^{{site.url}}{{site.baseurl}}/",
+      "replacement": "/_"
+    }
+  ],
+  "aliveStatusCodes": [200, 206]
+}
