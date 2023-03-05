@@ -1,7 +1,8 @@
 {
-  "ignorePatterns": [
+  "replacementPatterns": [
     {
       "pattern": "^{{site.url}}{{site.baseurl}}/"
+      "replacement": "https://opensearch.org/docs/latest/"
     }
   ],
   "timeout": "40s",
