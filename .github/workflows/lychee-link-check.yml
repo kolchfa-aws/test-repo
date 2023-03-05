@@ -25,4 +25,5 @@ jobs:
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
-          labels: report, automated issue
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
