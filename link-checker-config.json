@@ -4,5 +4,6 @@
       "pattern": "^{{site.url}}{{site.baseurl}}/"
     }
   ],
+  "timeout": "40s",
   "aliveStatusCodes": [200, 206]
 }
