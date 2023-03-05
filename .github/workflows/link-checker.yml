@@ -1,9 +1,14 @@
 name: Check external links
 
 on:
-  schedule:
-  # Run Sunday at 11:00 PM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
-    - cron: "0 23 * * 0"
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+  pull_request:
+    paths:
+      - '**.md'
  
   workflow_dispatch:
 
@@ -17,3 +22,4 @@ jobs:
         use-quiet-mode: 'no'
         use-verbose-mode: 'yes'
         config-file: 'link-checker-config.json'
+        check-modified-files-only: 'yes'
