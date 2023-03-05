@@ -1,8 +1,7 @@
 {
-  "replacementPatterns": [
+  "ignorePatterns": [
     {
-      "pattern": "^{{site.url}}{{site.baseurl}}/",
-      "replacement": "./_"
+      "pattern": "^{{site.url}}{{site.baseurl}}/"
     }
   ],
   "timeout": "40s",
