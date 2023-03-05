@@ -1,8 +1,7 @@
 {
-  "replacementPatterns": [
+  "ignorePatterns": [
     {
-      "pattern": "^{{site.url}}{{site.baseurl}}/",
-      "replacement": "{{BASEURL}}/_"
+      "pattern": "^{{site.url}}{{site.baseurl}}/"
     }
   ],
   "aliveStatusCodes": [200, 206]
