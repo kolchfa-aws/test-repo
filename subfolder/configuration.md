@@ -13,7 +13,7 @@ Segment replication is an experimental feature. Therefore, we do not recommend t
 
 To enable the segment replication type, reference the [steps below](#enable-on-a-node-using-a-tarball-install).
 
-- [bad link](https://opensearch.org.org)
+- [One more bad link](https://opensearch.org.org)
 
 ## Enabling the feature flag
 
