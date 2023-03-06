@@ -10,6 +10,8 @@ The OpenSearch Go client lets you connect your Go application with the data in y
 
 For the client source code, see the [opensearch-go repo](https://github.com/opensearch-project/opensearch-go).
 
+[broken-link](https://example.example.example.com)
+
 
 ## Setup
 
