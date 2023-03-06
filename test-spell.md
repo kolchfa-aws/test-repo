@@ -19,3 +19,4 @@
 - see [Editing a detector]({{site.url}}{{site.baseurl}}/security-analytics/usage/detectors/#editing-a-detector)
 - [Tableau](https://github.com/opensearch-project/sql/blob/main/bi-connectors/TableauConnector/README.md)
 - [fake link](http://example.example.example.com)
+- [permanently redirected](https://curl.haxx.se/)
