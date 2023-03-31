@@ -4,8 +4,8 @@ permissions:
   issues: write 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 23 * * 0"
+  #schedule:
+    #- cron: "0 23 * * 0"
 
 jobs:
   linkChecker:
