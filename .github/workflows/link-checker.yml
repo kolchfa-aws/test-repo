@@ -1,8 +1,8 @@
 name: Check links on push
 
 on:
-  push:
-  pull_request:
+  #push:
+  #pull_request:
    
   workflow_dispatch:
 
