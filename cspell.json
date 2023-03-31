@@ -10,5 +10,7 @@
     ],
     "words": [
         "OpenSearch",
+        "reindex",
+        "prefilter"
     ]    
 }
