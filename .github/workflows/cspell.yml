@@ -15,7 +15,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           root: '.'
-          config: './cspell.json'
+          config: './cspell.config.yaml'
           files: "**/*.md"
           incremental_files_only: false
           strict: true
