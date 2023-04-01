@@ -14,3 +14,8 @@ jobs:
       - uses: streetsidesoftware/cspell-action@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          root: '.'
+          config: './cspell.json'
+          files: "**/*.md"
+          incremental_files_only: false
+          strict: true
