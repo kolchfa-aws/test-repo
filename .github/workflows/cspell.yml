@@ -17,5 +17,5 @@ jobs:
           root: '.'
           config: './cspell.config.yaml'
           files: "**/*.md"
-          incremental_files_only: false
+          incremental_files_only: true
           strict: true
