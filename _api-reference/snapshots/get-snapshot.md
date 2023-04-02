@@ -90,3 +90,5 @@ Upon success, the response returns snapshot information:
 | failures | array | Failures, if any, that occured during snapshot creation. |
 | shards | object | Total number of shards created along with number of successful and failed shards. |
 | state | string | Snapshot status. Possible values: `IN_PROGRESS`, `SUCCESS`, `FAILED`, `PARTIAL`. |
+
+Checkout this branch.
