@@ -1,0 +1,12 @@
+OpenSearch
+Lucene
+[Kk]eystore
+[Pp]refilter
+[Rr]ebalance
+[Rr]ebalancing
+[Rr]eindex
+[Ss]ubfield
+[Tt]okenize
+[Tt]okenizer
+[Uu]pdatable
+[Uu]psert
