@@ -1,6 +1,12 @@
 OpenSearch
 Lucene
+Okta
+[Bb]ackpressure
+[Dd]eserialize
+[Dd]eserialization
+[Ii]initializer
 [Kk]eystore
+[Mm]ultiline
 [Pp]refilter
 [Rr]ebalance
 [Rr]ebalancing
@@ -8,5 +14,6 @@ Lucene
 [Ss]ubfield
 [Tt]okenize
 [Tt]okenizer
+[Tt]ranslog
 [Uu]pdatable
 [Uu]psert
