@@ -1,0 +1,7 @@
+extends: spelling
+message: "Did you really mean '%s'?"
+dicpath: .github/vale/dicts
+append: true
+level: error
+dictionaries:
+  - opensearch
