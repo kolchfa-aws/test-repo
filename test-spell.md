@@ -1,6 +1,9 @@
 # Getting started
+ The WHO is the band that someone likes.
+ 
+ The WHO (World Health Organization) is an organization which uses PDF files.
 
-
+Query DSL (domain-specific language) is a query language. DSL is used in OpenSearch.
 
 - [About OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/)
 - [Quickstart]({{site.url}}{{site.baseurl}}/quickstart/)
