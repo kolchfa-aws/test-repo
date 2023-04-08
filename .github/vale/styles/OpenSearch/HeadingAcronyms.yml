@@ -6,4 +6,4 @@ ignorecase: false
 scope: heading
 nonword: true
 tokens:
-  - '\(.*\)'
+  - '\([A-Z]+\)'
