@@ -4,5 +4,6 @@ link: 'https://github.com/opensearch-project/documentation-website/blob/main/STY
 level: error
 ignorecase: false
 scope: heading
+nonword: true
 tokens:
   - '\(.*\)'
