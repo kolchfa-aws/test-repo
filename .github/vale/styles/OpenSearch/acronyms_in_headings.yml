@@ -1,3 +1,8 @@
 extends: existence
 message: "'%s': Don't define acronyms in headings."
-link: 'https://developers.google.com/style/exclamation-points'
+link: 'https://github.com/opensearch-project/documentation-website/blob/main/STYLE_GUIDE.md#acronyms'
+level: error
+ignorecase: false
+scope: heading
+tokens:
+  - '([A-Z]{3,5}\)'
