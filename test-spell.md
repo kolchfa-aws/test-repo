@@ -3,7 +3,7 @@
  
  The WHO (World Health Organization) is an organization which uses PDF files.
 
-Query DSL (domain-specific language) is a query language. DSL is used in OpenSearch.
+Query domain-specific language (DSL) is a query language. Query DSL is used in OpenSearch.
 
 - [About OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/)
 - [Quickstart]({{site.url}}{{site.baseurl}}/quickstart/)
