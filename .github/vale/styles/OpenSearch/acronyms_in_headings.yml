@@ -5,4 +5,4 @@ level: error
 ignorecase: false
 scope: heading
 tokens:
-  - '\([A-Z]{3,5}\)'
+  - '\b\([A-Z]{3,5}\)\b'
