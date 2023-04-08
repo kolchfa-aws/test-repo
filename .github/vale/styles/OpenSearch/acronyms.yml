@@ -1,6 +1,6 @@
 extends: conditional
-message: "Spell out acronyms the first time that you use them on a page and follow them with the acronym in parentheses. On subsequent use, use the acronym alone."
-link: 'https://developers.google.com/style/abbreviations'
+message: "'%s': Spell out acronyms the first time that you use them on a page and follow them with the acronym in parentheses. On subsequent use, use the acronym alone."
+link: 'https://github.com/opensearch-project/documentation-website/blob/main/STYLE_GUIDE.md#acronyms'
 level: warning
 ignorecase: false
 # Ensures that the existence of 'first' implies the existence of 'second'.
