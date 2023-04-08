@@ -3,10 +3,5 @@ message: "Don't use a period at the end of a heading."
 nonword: true
 level: error
 scope: heading
-action:
-  name: edit
-  params:
-    - remove
-    - '.'
 tokens:
   - '[.]\s*$'
