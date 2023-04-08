@@ -1,7 +1,7 @@
 # Getting started
  
 
-Query domain specific language (DSL) is a query language. Query DSL is used in OpenSearch.
+Query Domain Specific Language (DSL) is a query language. Query DSL is used in OpenSearch.
 
 - [About OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/)
 - [Quickstart]({{site.url}}{{site.baseurl}}/quickstart/)
