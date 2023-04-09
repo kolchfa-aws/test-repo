@@ -13,7 +13,8 @@ script: |
   //document := text.re_replace("(?:^\s*$)", scope, "")
   isHeading := false
   for line in text.split(text, "\n") {
-    if text.trim_space(line) != "" {   
+    lineNS := text.trim_space(line)
+    if lineNS != "" {   
       if text.has_prefix(line, "#") {
         if isHeading == true {
           start := text.index(scope, line)
