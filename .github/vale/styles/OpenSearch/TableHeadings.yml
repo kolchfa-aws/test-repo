@@ -1,0 +1,5 @@
+extends: capitalization
+message: "Table headings should be sentence case."
+level: error
+scope: table.header
+match: $sentence
