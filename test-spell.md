@@ -14,7 +14,7 @@ KIR is used in databases and data lakes.
 - [See the FAQ](https://opensearch.org/faq)
 - [See the FAQ bad](https://opensearch.org/faqs)
 
-I like dogs, cats and rabbits. To install OpenSearch, do this, this, and this.
+I like dogs, cats and rabbits. To install OpenSearch, do this, this, and this. OpenSearch will return a response.
 
 ## Why use OpenSearch.
 
