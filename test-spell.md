@@ -14,7 +14,7 @@ KIR is used in databases and data lakes.
 - [See the FAQ](https://opensearch.org/faq)
 - [See the FAQ bad](https://opensearch.org/faqs)
 
-I like dogs, cats and rabbits. To install OpenSearch, do this, this, and this. The fail over runs in case of errors.
+I like dogs, cats and rabbits. To install OpenSearch, do this, this, and this. The fail over runs in case of errors. To login to OpenSearch, do this.
 
 ## Why use OpenSearch.
 
@@ -22,7 +22,7 @@ I like dogs, cats and rabbits. To install OpenSearch, do this, this, and this. T
 <p>Witsh OpenSearch, you can prerform the following ushe cases.</p>
 ![horizontal_rule](https://user-images.githubusercontent.com/105444904/221718101-79ec21db-a3b9-4656-877d-bba707ec76bd.png)
 
-Verify the OpenSearch install by running the script. To failover systems, do this.
+Verify the OpenSearch install by running the script. To failover systems, do this. Use your OpenSearch log in to do that.
 
 - [Okta](https://developer.okta.com/docs/api/resources/oidc#well-knownopenid-configuration)
 - [IBM OpenID Connect](https://www.ibm.com/support/knowledgecenter/en/SSEQTP_8.5.5/com.ibm.websphere.wlp.doc/ae/rwlp_oidc_endpoint_urls.html)
