@@ -1,5 +1,6 @@
 extends: script
 message: "Do not stack headings. Insert an introductory sentence between headings."
+level: error
 link: https://tengolang.com/
 # The unprocessed file contents.
 #
