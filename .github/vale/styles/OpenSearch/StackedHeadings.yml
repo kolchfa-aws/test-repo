@@ -10,11 +10,10 @@ script: |
   matches := []
   // Remove all instances of code blocks since we don't want to count
   // inter-block newlines as a new paragraph.
-  //document := text.re_replace("(?:^\s*$)", scope, "")
+  document := text.re_replace("(?s) *(\n```.*?```\n)", scope, "")
   isHeading := false
-  for line in text.split(text, "\n") {
-    lineNS := text.trim_space(line)
-    if lineNS != "" {   
+  for line in text.split(document, "\n") {
+    if text.trim_space(line) != "" {   
       if text.has_prefix(line, "#") {
         if isHeading == true {
           start := text.index(scope, line)
