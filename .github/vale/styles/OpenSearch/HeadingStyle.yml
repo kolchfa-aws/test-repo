@@ -3,6 +3,6 @@ message: "Headings should start with a present participle phrase or a noun phras
 level: warning
 scope: heading
 tokens:
-  - pattern: "^"
-  - tag: VBD|VBN|VBP|VBZ
+  - pattern: "^" 
+    tag: VBD|VBN|VBP|VBZ
  
