@@ -19,8 +19,7 @@ script: |
         matches = append(matches, {begin: start, end: start + len(line)})
        }
       isHeading := true // New section; reset count
-    } 
-    else {
+    } else {
       isHeading := false
     }
   }  
