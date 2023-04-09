@@ -1,0 +1,6 @@
+extends: sequence
+message: "Headings should start with a present participle phrase or a noun phrase."
+tokens:
+  - pattern: "^"
+  - tag: VBD|VBN|VBP|VBZ
+ 
