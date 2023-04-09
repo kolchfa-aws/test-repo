@@ -31,7 +31,7 @@ Paragraph 2 is also like that.
 - [fake link](http://example.example.example.com)
 - [permanently redirected](https://curl.haxx.se/)
 
-Table 1 | Table 2
+Table header | Table Wrong
 :--- | :---
 Cell 1 | Cell 2
 Cell 3 | cell 4
