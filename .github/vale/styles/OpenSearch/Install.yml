@@ -1,5 +1,5 @@
 extends: sequence
-message: "Use installation as an adjective or noun."
+message: "Use installation as an adjective or noun in '%s'."
 level: error
 ignorecase: true
 tokens:
