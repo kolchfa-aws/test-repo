@@ -1,7 +1,7 @@
 # Getting started (GST).
  
  
-### Get started 
+### Get started!
  
 The WHO (World Health Organization) is an organization. 
 Query Domain Specific Language (DSL) is a query language. Query DSL is used in OpenSearch, something else, and something else!
@@ -16,7 +16,7 @@ KIR is used in databases and data lakes.
 
 I like dogs, cats and rabbits. To install OpenSearch, do this, this, and this. The fail over runs in case of errors. To login to OpenSearch, do this. Once you rollover your index, you'll do this.
 
-## Why use OpenSearch.
+## Why use OpenSearch?
 
 <style>p{color:red;}</style>
 <p>Witsh OpenSearch, you can prerform the following ushe cases.</p>
