@@ -1,7 +1,7 @@
 # Getting started (GST).
  
  
-### Get started!
+### Get started with opensearch.org
  
 The WHO (World Health Organization) is an organization. 
 Query Domain Specific Language (DSL) is a query language. Query DSL is used in OpenSearch, something else, and something else!
