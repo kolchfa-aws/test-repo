@@ -1,6 +1,6 @@
 extends: sequence
 scope: heading
-message: "Headings should start with a present participle phrase or a noun phrase. Don't start a heading with '%[2]s'."
+message: "Headings should start with a present participle phrase or a noun phrase. Don't start a heading with 1 '%[1]s' 2 '%[2]s' 3 '%[3]s'."
 tokens:
   - pattern: "^"
   - tag: VBD|VBN|VBP|VBZ
