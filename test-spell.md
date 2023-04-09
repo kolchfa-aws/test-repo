@@ -14,6 +14,10 @@ This is KIR.
 - [See the FAQ](https://opensearch.org/faq)
 - [See the FAQ bad](https://opensearch.org/faqs)
 
+Paragraph 1 is a very long paragraph.
+
+Paragraph 2 is also like that.
+
 ## Why use OpenSearch (OOPS).
 
 <style>p{color:red;}</style>
