@@ -15,7 +15,7 @@ script: |
   isHeading := false
   for line in text.split(document, "\n") {
     if text.has_prefix(line, "#") {
-      if isHeading {
+      if isHeading == true {
         start := text.index(scope, line)
         matches = append(matches, {begin: start, end: start + len(line)})
        }
