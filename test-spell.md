@@ -18,7 +18,7 @@ Paragraph comes as a very long paragraph.
 
 Paragraph 2 is also like that.
 
-## Why use OpenSearch (OOPS).
+## Why use OpenSearch.
 
 <style>p{color:red;}</style>
 <p>Witsh OpenSearch, you can prerform the following ushe cases.</p>
@@ -31,5 +31,5 @@ Paragraph 2 is also like that.
 - [fake link](http://example.example.example.com)
 - [permanently redirected](https://curl.haxx.se/)
 
-### This is a test.
+### This Is A Test.
 ## Of the emergency broadcast system
