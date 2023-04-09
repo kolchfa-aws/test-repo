@@ -1,4 +1,5 @@
 extends: sequence
+scope: heading
 message: "Headings should start with a present participle phrase or a noun phrase."
 tokens:
   - pattern: "^"
