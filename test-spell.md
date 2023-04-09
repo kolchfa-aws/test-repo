@@ -31,5 +31,10 @@ Paragraph 2 is also like that.
 - [fake link](http://example.example.example.com)
 - [permanently redirected](https://curl.haxx.se/)
 
+Table 1 | Table 2
+:--- | :---
+Cell 1 | Cell 2
+Cell 3 | cell 4
+
 ### This Is A Test.
 ## Of the emergency broadcast system
