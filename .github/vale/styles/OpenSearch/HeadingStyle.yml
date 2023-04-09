@@ -1,8 +1,0 @@
-extends: sequence
-message: "Headings should start with a present participle phrase or a noun phrase. Don't start a heading with 1 '%[1]s' 2 '%[2]s' 3 '%[3]s'."
-level: warning
-scope: heading
-tokens:
-  - pattern: "^" 
-    tag: VBD|VBN|VBP|VBZ
- 

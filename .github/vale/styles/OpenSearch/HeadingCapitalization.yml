@@ -1,0 +1,6 @@
+extends: capitalization
+message: "Headings should be sentence case."
+level: error
+scope: heading
+match: $sentence
+ 
