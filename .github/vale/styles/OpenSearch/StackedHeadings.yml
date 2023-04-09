@@ -16,6 +16,7 @@ script: |
   for line in text.split(document, "\n") {
     if text.has_prefix(line, "#") {
       if isHeading {
+        start := text.index(scope, line)
         matches = append(matches, {begin: start, end: start + len(line)})
        }
       isHeading := true // New section; reset count
