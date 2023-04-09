@@ -10,7 +10,7 @@ script: |
   matches := []
   // Remove all instances of code blocks since we don't want to count
   // inter-block newlines as a new paragraph.
-  document := text.re_replace("(?m)^\s*$", scope, "")
+  document := text.re_replace("(?:)^\s*$", scope, "")
   isHeading := false
   for line in text.split(document, "\n") {
     if text.has_prefix(line, "#") {
