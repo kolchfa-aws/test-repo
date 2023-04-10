@@ -1,6 +1,6 @@
 extends: substitution
 message: "Use '%s' instead of '%s'."
 ignorecase: true
-level: error
+level: suggestion
 swap:
-  'it is recommended|OpenSearch recommends': we recommend
+  '?:(it is recommended|OpenSearch recommends)': we recommend
