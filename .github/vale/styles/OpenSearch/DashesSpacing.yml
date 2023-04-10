@@ -1,0 +1,8 @@
+extends: existence
+message: "There should be no spaces around '%s'."
+ignorecase: true
+nonword: true
+level: error
+tokens:
+  - '\s[—–]\s'
+  - '\s[—–-]\s'
