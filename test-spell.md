@@ -3,9 +3,9 @@
  
 ### Get started with opensearch.org
  
-The WHO (World Health Organization) is an organization. 
-Query Domain Specific Language (DSL) is a query language. Query DSL is used in OpenSearch, something else, and something else!
-KIR is used in databases and data lakes. It takes 2 - 5 hours or 323-887 days.  
+The WHO (World Health Organization) is an organization . 
+Query Domain Specific Language (DSL) is a query language.  Query DSL is used in OpenSearch, something else, and something else!
+KIR is used in databases and data lakes.It takes 2 - 5 hours or 323-887 days.times.periods.  
 
 - [About OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/)
 - [Quickstart]({{site.url}}{{site.baseurl}}/quickstart/)
@@ -14,7 +14,7 @@ KIR is used in databases and data lakes. It takes 2 - 5 hours or 323-887 days.
 - [See the FAQ](https://opensearch.org/faq)
 - [See the FAQ bad](https://opensearch.org/faqs)
 
-I like dogs, cats and rabbits. To install OpenSearch, do this, this, and this, etc. The fail over runs in case of errors. To login to OpenSearch, do this. Once you rollover your index, you'll do this. For information on this, see the image below. Click the button to see this.
+I like dogs, cats and rabbits. To install OpenSearch, do this,  this,and this, etc. The fail over runs in case of errors. To login to OpenSearch, do this. Once you rollover your index, you'll do this. For information on this, see the image below. Click the button to see this.
 
 ## Why use OpenSearch?
 
