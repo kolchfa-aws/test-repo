@@ -1,3 +1,4 @@
-OpenSearch
+Grafana
 Lucene
 Okta
+OpenSearch
