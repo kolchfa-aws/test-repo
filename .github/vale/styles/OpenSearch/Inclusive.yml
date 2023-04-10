@@ -10,8 +10,8 @@ swap:
   'execute': run, process, apply, start, launch, or initiate
   'hang': stop responding
   'kill': stop, end, clear, remove, or cancel
-  'master': primary, main, or leader
   'master account': 'management account'
+  'master': primary, main, or leader
   'slave': replica, secondary, standby
   'white day': open day
   'whitelist': allow list
