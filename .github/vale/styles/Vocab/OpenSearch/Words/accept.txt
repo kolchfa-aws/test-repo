@@ -1,6 +1,7 @@
 [Bb]ackpressure
 [Dd]eserialize
 [Dd]eserialization
+[Ff]ailover
 [Ii]initializer
 [Kk]eystore
 [Mm]ultiline
