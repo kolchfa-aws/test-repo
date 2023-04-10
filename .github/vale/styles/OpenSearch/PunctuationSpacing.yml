@@ -1,5 +1,5 @@
 extends: existence
-message: "There should be no space before and one space after the '%s' punctuation mark."
+message: "'%s': There should be no space before and one space after the punctuation mark."
 level: error
 nonword: true
 tokens:
