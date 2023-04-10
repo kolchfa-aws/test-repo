@@ -1,8 +1,8 @@
 extends: substitution
 message: "Use '%s' instead of '%s'."
-ignorecase: false
+ignorecase: true
 level: error
 swap:
-  '[Ff]or information on': '[Ff]or information about'
+  'for information on': for information about
   'for more information on': for more information about
   'image below': following image
