@@ -4,4 +4,4 @@ ignorecase: true
 level: suggestion
 swap:
   'it is recommended': we recommend
-  'OpenSearch recommends': we recommend
+  'opensearch recommends': we recommend
