@@ -1,7 +1,7 @@
 extends: substitution
 message: "Use '%s' instead of '%s'."
-ignorecase: true
+ignorecase: false
 level: suggestion
 swap:
-  'it is recommended': we recommend
-  'opensearch recommends': we recommend
+  '[Ii]t is recommended': we recommend
+  'Open[Ss]earch recommends': we recommend
