@@ -33,7 +33,7 @@ Verify the OpenSearch install by running the script. To failover systems, do thi
 
 Table header | Table Wrong
 :--- | :---
-Cell 1 | Cell 2
+Cell 1 | AWS
 Cell 3 | cell 4
 
 ### This Is A Test.
