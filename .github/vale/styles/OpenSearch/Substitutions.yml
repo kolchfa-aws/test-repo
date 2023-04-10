@@ -9,3 +9,13 @@ swap:
   'sample request': example request
   'sample response': example response
   'indices': indexes 
+  'pre-trained': pretrained
+  'pre-train': pretrain
+  'stand-alone': standalone
+  'geo hash': geohash
+  'command-line interface': command line interface
+  'high-performance computing': high performance computing
+  'machine-learning': machine learning
+  'nonproduction': non-production
+  'postmigration': post-migration
+  'premigration': pre-migration
