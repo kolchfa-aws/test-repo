@@ -1,0 +1,9 @@
+extends: substitution
+message: "Use '%s' instead of '%s'."
+link: https://github.com/opensearch-project/documentation-website/blob/main/STYLE_GUIDE.md#basic-guidelines
+ignorecase: true
+level: warning
+nonword: true
+swap:
+  '\b(?:eg|e\.g\.)[\s,]': for example
+  '\b(?:ie|i\.e\.)[\s,]': that is
