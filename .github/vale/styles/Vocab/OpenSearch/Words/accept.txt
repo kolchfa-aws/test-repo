@@ -10,8 +10,7 @@
 [Rr]ebalancing
 [Rr]eindex
 [Ss]ubfield
-[Tt]okenize
-[Tt]okenizer
+[Tt]okenizer?
 [Tt]ranslog
 [Uu]pdatable
 [Uu]psert

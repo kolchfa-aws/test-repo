@@ -5,3 +5,5 @@ nonword: true
 level: error
 tokens:
   - ' +-{2,3} +'
+  - '-{2,3} +'
+  - ' +-{2,3}'
