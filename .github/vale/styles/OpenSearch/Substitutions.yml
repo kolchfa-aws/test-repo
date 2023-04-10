@@ -4,4 +4,5 @@ ignorecase: true
 level: error
 swap:
   'for information on': for information about
+  'for more information on': for more information about
   'image below': following image
