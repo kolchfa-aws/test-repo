@@ -16,6 +16,8 @@ KIR is used in databases and data lakes.It takes two -- five hours or this ---  
 
 I like dogs, cats and rabbits. To install OpenSearch, do this,  this,and this, etc. The fail over runs in case of errors. To login to OpenSearch, do this. Once you rollover your index, you'll do this. For information on this, see the image below. Click the button to see this.
 
+Adding a dash---to check.
+
 ## Why use OpenSearch?
 
 <p>Witsh OpenSearch, you can prerform the following ushe cases.</p>

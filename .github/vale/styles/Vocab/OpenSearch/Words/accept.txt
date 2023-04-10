@@ -1,6 +1,3 @@
-OpenSearch
-Lucene
-Okta
 [Bb]ackpressure
 [Dd]eserialize
 [Dd]eserialization
