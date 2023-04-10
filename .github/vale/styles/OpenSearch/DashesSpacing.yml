@@ -1,7 +1,8 @@
 extends: existence
-message: "There should be no spaces around '%s'."
+message: "There should be no spaces around the '%s' dash."
 ignorecase: true
 nonword: true
 level: error
 tokens:
-  - ' +[–]{2,3} +'
+  - '\s[—–]\s'
+  - '\s[—–-]\s'
