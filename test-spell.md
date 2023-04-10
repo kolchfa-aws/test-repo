@@ -18,7 +18,7 @@ I like dogs, cats and rabbits. To install OpenSearch, do this,  this,and this, e
 
 Adding a dash ---to check analyzers and tokenizers that tokenize words in API or APIs.
 Adding a dash --- to check analyzers and tokenizers that tokenize words in API or APIs.
-Adding a dash--- to check analyzers and tokenizers that tokenize words in API or APIs.
+Adding a dash & to check analyzers and tokenizers that tokenize words in API or APIs.
 
 ## Why use OpenSearch?
 
