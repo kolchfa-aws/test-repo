@@ -1,5 +1,5 @@
 extends: existence
-message: "Don't use '&' in place of 'and' in documentation."
+message: "Don't use '%s' in place of 'and' in documentation."
 nonword: true
 level: warning
 tokens:
