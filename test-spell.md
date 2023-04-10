@@ -39,4 +39,4 @@ Cell 3 | cell 4
 ### This Is A Test.
 ## Of the emergency broadcast system
 
-To index documents (e.g., data) do this and this. And etc. this.
+To index documents (e.g. data) do this and this. And etc. this.
