@@ -25,7 +25,7 @@ Adding a dash & to check analyzers and tokenizers that tokenize words in API or 
 <p>Witsh OpenSearch, you can prerform the following ushe cases.</p>
 ![horizontal_rule](https://user-images.githubusercontent.com/105444904/221718101-79ec21db-a3b9-4656-877d-bba707ec76bd.png)
 
-Verify the OpenSearch install by running the script. To failover systems, i.e. do this. Use your OpenSearch log in to do that. The roll over index is now ready. See this for more information on that.
+Verify the OpenSearch install by running the script. To failover systems, i.e. do this. Use your OpenSearch log in to do that. The roll over index is now ready. See this for more information on that. The response has been received.
 
 - [Okta](https://developer.okta.com/docs/api/resources/oidc#well-knownopenid-configuration)
 - [IBM OpenID Connect](https://www.ibm.com/support/knowledgecenter/en/SSEQTP_8.5.5/com.ibm.websphere.wlp.doc/ae/rwlp_oidc_endpoint_urls.html)
@@ -44,4 +44,4 @@ Cell 3 | cell 4
 ### This Is A Test.
 ## Of the emergency broadcast system
 
-To index documents (e.g. data) do this and this. And etc. button click.
+To index documents (e.g. data) do this and this. And etc. button click was written.
