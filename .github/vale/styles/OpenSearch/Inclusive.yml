@@ -1,0 +1,7 @@
+extends: substitution
+message: "Don't use '%s' because it's an offensive term. Use '%s' instead."
+link: https://github.com/opensearch-project/documentation-website/blob/main/STYLE_GUIDE.md#offensive-terms
+ignorecase: true
+level: error
+swap:
+  'abort': stop, end, or cancel
