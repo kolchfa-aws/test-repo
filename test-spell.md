@@ -5,7 +5,7 @@
  
 The WHO (World Health Organization) is an organization . 
 Query Domain Specific Language (DSL) is a query language.  Query DSL is used in OpenSearch, something else, and something else!
-KIR is used in databases and data lakes.It takes 2 - 5 hours or 323-887 days.times.periods.  
+KIR is used in databases and data lakes.It takes 2 - 5 hours or 323 --- 887 days.times.periods.  
 
 - [About OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/)
 - [Quickstart]({{site.url}}{{site.baseurl}}/quickstart/)
