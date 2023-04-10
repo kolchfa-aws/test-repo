@@ -5,5 +5,6 @@ ignorecase: true
 level: warning
 nonword: true
 swap:
-  '\b(?:eg|e\.g\.)[\s,]': for example
-  '\b(?:ie|i\.e\.)[\s,]': that is
+  '\b(?:eg|e\.g\.)[\s,]': for example or such as
+  '\b(?:ie|i\.e\.)[\s,]': that is or specifically
+  'ad hoc': one-time
