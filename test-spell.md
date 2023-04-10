@@ -18,7 +18,6 @@ I like dogs, cats and rabbits. To install OpenSearch, do this,  this,and this, e
 
 ## Why use OpenSearch?
 
-<style>p{color:red;}</style>
 <p>Witsh OpenSearch, you can prerform the following ushe cases.</p>
 ![horizontal_rule](https://user-images.githubusercontent.com/105444904/221718101-79ec21db-a3b9-4656-877d-bba707ec76bd.png)
 
@@ -30,6 +29,8 @@ Verify the OpenSearch install by running the script. To failover systems, i.e. d
 - [Tableau](https://github.com/opensearch-project/sql/blob/main/bi-connectors/TableauConnector/README.md)
 - [fake link](http://example.example.example.com)
 - [permanently redirected](https://curl.haxx.se/)
+{: .note}
+
 
 Table header | Table Wrong
 :--- | :---
