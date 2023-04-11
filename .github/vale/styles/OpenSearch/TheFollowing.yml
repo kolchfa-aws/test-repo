@@ -1,0 +1,6 @@
+extends: existence
+message: "Rewrite '%s' to focus on the topic's subject."
+ignorecase: false
+level: warning
+tokens:
+  - '^The following (?:page|document|section)'
