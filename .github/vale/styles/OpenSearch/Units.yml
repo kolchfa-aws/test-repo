@@ -1,8 +1,7 @@
 extends: existence
 message: "Put a space between the number and the units ('%s')."
-ignorecase: true
 nonword: true
 level: warning
 tokens:
-  - \d+(?:B|kB|MB|GB|TB)
+  - \d+(?:B|kB|MB|GB|TB)(?:\s|\.)
   - \d+(?:ns|ms|s|min|h|d)(?:\s|\.)
