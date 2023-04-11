@@ -45,3 +45,12 @@ Cell 3 | cell 4
 ## Of the emergency broadcast system
 
 To index documents (e.g. data) do this and this. It is recommended to click the button.
+<<<<<<< HEAD
+=======
+# Installs webrick dependency for building locally
+gem "webrick", "~> 1.7"
+
+# Link checker
+gem "typhoeus"
+gem "ruby-link-checker"
+>>>>>>> 680c8219 (Add CI with link checker. (#3584))
