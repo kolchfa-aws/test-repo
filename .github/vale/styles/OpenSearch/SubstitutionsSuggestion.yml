@@ -4,3 +4,4 @@ ignorecase: true
 level: suggestion
 swap:
   'it is recommended': we recommend
+  'repo': repository
