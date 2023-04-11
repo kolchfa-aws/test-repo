@@ -19,3 +19,4 @@ swap:
   'nonproduction': non-production
   'postmigration': post-migration
   'premigration': pre-migration
+  'pre-defined': predefined
