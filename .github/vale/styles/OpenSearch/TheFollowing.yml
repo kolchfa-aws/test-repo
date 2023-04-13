@@ -5,5 +5,5 @@ level: suggestion
 tokens:
   - pattern: The 
   - pattern: following 
-  - pattern: section
+  - pattern: 'section|page|document'
   - tag: VBZ
