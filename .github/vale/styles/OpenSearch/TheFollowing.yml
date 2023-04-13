@@ -1,5 +1,5 @@
 extends: sequence
-message: "Rewrite '%s' to focus on the topic's subject."
+message: "Don't describe what the document is going to describe ('%[1]s' '%[1]s' '%[1]s' '%[1]s'...). Focus on the value for the user."
 ignorecase: false
 level: suggestion
 tokens:
