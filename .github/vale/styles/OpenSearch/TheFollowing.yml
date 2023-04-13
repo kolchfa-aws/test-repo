@@ -3,5 +3,7 @@ message: "Rewrite '%s' to focus on the topic's subject."
 ignorecase: false
 level: suggestion
 tokens:
-  - pattern: 'The following section'
+  - pattern: The 
+  - pattern: following 
+  - pattern: section
   - tag: VBZ
