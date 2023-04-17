@@ -6,7 +6,7 @@
 The following section describes how to get started.
  
 The WHO (World Health Organization) is an organization . 
-Query Domain Specific Language (DSL) is a simple query language.  Query DSL is used in OpenSearch, something else, and something else!
+Query Domain Specific Language (DSL) v2.3 is a simple query language.  Query DSL is used in OpenSearch, something else, and something else!
 KIR is used in databases and data lakes.It simply takes two -- five hours or this ---  days.times.periods. Doing so will master slave the workflow simply because of this. This takes 2 mb of memory. Use the steps below to do this:
 
 - [About OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/)
