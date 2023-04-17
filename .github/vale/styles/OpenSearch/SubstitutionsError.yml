@@ -19,3 +19,5 @@ swap:
   'postmigration': post-migration
   'premigration': pre-migration
   'pre-defined': predefined
+  'web page': webpage
+  'web site': website
