@@ -5,9 +5,9 @@
 
 The following section describes how to get started.
  
-The WHO (World Health Organization) is an AI /ML organization . 
-Query Domain Specific Language (DSL) v2.3 is a AI/ ML simple query language. AI / ML Query DSL is used in OpenSearch, something else, and something else!
-KIR is used in databases and data lakes.It simply takes two -- five hours or this ---  days.times.periods. Doing so will master slave the workflow simply because of this. This takes 2 mb of memory. Use the steps below to do this:
+The WHO (World Health Organization) is an AI v. ML organization . 
+Query Domain Specific Language (DSL) v2.3 is a AI vs. ML simple query language. AI / ML Query DSL is used in OpenSearch, something else, and something else!
+KIR vs GUR is used in databases and data lakes.It simply takes two -- five hours or this ---  days.times.periods. Doing so will master slave the workflow simply because of this versus that. This takes 2 mb of memory. Use the steps below to do this:
 
 - [About OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/)
 - [Quickstart]({{site.url}}{{site.baseurl}}/quickstart/)
