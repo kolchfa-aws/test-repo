@@ -7,7 +7,7 @@ The following section describes how to get started.
  
 The WHO (World Health Organization) is an organization . 
 Query Domain Specific Language (DSL) is a simple query language.  Query DSL is used in OpenSearch, something else, and something else!
-KIR is used in databases and data lakes.It simply takes two -- five hours or this ---  days.times.periods. Doing so will master slave the workflow simply because of this. This takes 2 mb of memory.
+KIR is used in databases and data lakes.It simply takes two -- five hours or this ---  days.times.periods. Doing so will master slave the workflow simply because of this. This takes 2 mb of memory. Use the steps below to do this:
 
 - [About OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/)
 - [Quickstart]({{site.url}}{{site.baseurl}}/quickstart/)
@@ -16,7 +16,7 @@ KIR is used in databases and data lakes.It simply takes two -- five hours or thi
 - [See the FAQ](https://opensearch.org/faq)
 - [See the FAQ bad](https://opensearch.org/faqs)
 
-I like dogs, cats and easy rabbits. In the following document will describe something. To install OpenSearch, just do this,  this,and this, etc. The fail over runs in case of errors. To login to OpenSearch, do this. Once you easily rollover your index, you'll do this. For information on this, see the image below. Click the button to abort this program master account.
+I like dogs, cats and easy rabbits. In the following document will describe something. To install OpenSearch, just do this,  this,and this, etc. The fail over runs in case of errors. To login to OpenSearch, do this. Once you easily rollover your index, you'll do this. For information on this, see the image below. Click the button to abort this program master account. Choose the button on the bottom left.
 
 Adding a dash ---to check analyzers and tokenizers that tokenize words in API or APIs.
 Adding a dash --- to check analyzers and tokenizers that tokenize words in API or APIs.
