@@ -5,6 +5,7 @@ level: warning
 ignorecase: true
 swap:
   - 'image below': 'following image'
+  - 'steps below': 'following steps'
   - 'section below': 'following section'
   - 'table below': 'following table'
   - 'image above': 'following image'
