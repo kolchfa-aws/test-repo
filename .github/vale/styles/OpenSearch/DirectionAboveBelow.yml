@@ -1,5 +1,5 @@
 extends: substitution
-message: "Use 'above' and 'below' only for physical space or screen descriptions. Use '%s' instead of '%s' for orientation within a document."
+message: "Use '%s' instead of '%s' for orientation within a document. Use 'above' and 'below' only for physical space or screen descriptions."
 link: 'https://github.com/opensearch-project/documentation-website/blob/main/TERMS.md'
 level: warning
 ignorecase: true
