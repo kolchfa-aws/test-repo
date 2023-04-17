@@ -1,8 +1,17 @@
 extends: substitution
-message: "Use above and below only for physical space or screen descriptions. Use '%s' instead of '%s' for orientation within a document."
+message: "Use 'above' and 'below' only for physical space or screen descriptions. Use '%s' instead of '%s' for orientation within a document."
 link: 'https://github.com/opensearch-project/documentation-website/blob/main/TERMS.md'
 level: warning
 ignorecase: true
 swap:
-  - above: 'previous, preceding, earlier, following'
-  - below: later
+  - 'image below': 'following image'
+  - 'section below': 'following section'
+  - 'table below': 'following table'
+  - 'image above': 'following image'
+  - 'section above': 'preceding section'
+  - 'table above': 'preceding table'
+  - 'above image': 'preceding image'
+  - 'above section': 'preceding section'
+  - 'above table': 'preceding table'
+  - above: 'previous, preceding, or earlier'
+  - below: 'following or later'
