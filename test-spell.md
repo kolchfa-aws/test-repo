@@ -22,6 +22,8 @@ Adding a dash ---to check analyzers and tokenizers that tokenize words in API or
 Adding a dash --- to check analyzers and tokenizers that tokenize words in API or APIs.
 Adding a dash & to check analyzers and tokenizers that tokenize words in API or APIs. The above description is this.
 
+Subsequently, do that.
+
 ## Why use OpenSearch?
 
 <p>Witsh OpenSearch, you can prerform the following ushe cases.</p>
