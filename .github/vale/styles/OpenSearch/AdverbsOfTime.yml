@@ -4,4 +4,4 @@ level: error
 ignorecase: false
 nonword: true
 tokens:
-  - '^(?:Then|Afterward|Later|Subsequently),'
+  - '(?:[^\s]Then|Afterward|Later|Subsequently),'
