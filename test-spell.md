@@ -16,7 +16,7 @@ KIR vs GUR is used in databases and data lakes.It simply takes two -- five hours
 - [See the FAQ](https://opensearch.org/faq)
 - [See the FAQ bad](https://opensearch.org/faqs)
 
-I like dogs, cats and easy rabbits. In the following document will describe something. To install OpenSearch, just do this,  this,and this, etc. The fail over runs in case of errors. To login to the security plugin, do this. Once you easily rollover your index, you'll do this. For information on this, see the image below. Click the button to abort this program master account. Choose the button on the bottom left.
+I like dogs, cats and easy rabbits. In the following document will describe something. To install OpenSearch, just do this,  this,and this, etc. The fail over runs in case of errors. To login to the security plugin, do this. Once you easily rollover your index, you'll do this. For information on this, see the image below. Click the button to abort this program master account. Choose the button on the bottom left. Then, do something else.
 
 Adding a dash ---to check analyzers and tokenizers that tokenize words in API or APIs.
 Adding a dash --- to check analyzers and tokenizers that tokenize words in API or APIs.
