@@ -3,21 +3,24 @@ message: "Use '%s' instead of '%s'."
 ignorecase: true
 level: error
 swap:
+  'command-line interface': command line interface
   'for information on': for information about
   'for more information on': for more information about
-  'sample request': example request
-  'sample response': example response
-  'indices': indexes 
-  'pre-trained': pretrained
-  'pre-train': pretrain
-  'stand-alone': standalone
   'geo hash': geohash
-  'command-line interface': command line interface
   'high-performance computing': high performance computing
+  'indices': indexes
   'machine-learning': machine learning
   'nonproduction': non-production
   'postmigration': post-migration
-  'premigration': pre-migration
+  'pre-configure': preconfigure
+  'pre-configured': preconfigured
   'pre-defined': predefined
+  'pre-train': pretrain
+  'pre-trained': pretrained
+  'premigration': pre-migration
+  're-enable': reenable
+  'sample request': example request
+  'sample response': example response
+  'stand-alone': standalone
   'web page': webpage
   'web site': website
