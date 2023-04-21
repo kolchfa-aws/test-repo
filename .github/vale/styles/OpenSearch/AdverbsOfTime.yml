@@ -1,0 +1,7 @@
+extends: existence
+message: "Don't use a comma after single-word adverbs of time at the beginning of a sentence '%s'."
+level: error
+ignorecase: false
+nonword: true
+tokens:
+  - '^(?:Then|Afterward|Later|Subsequently),'

@@ -1,4 +1,9 @@
+Amazon OpenSearch Service
+Data Prepper
 Grafana
 Lucene
 Okta
 OpenSearch
+OpenSearch Dashboards
+OpenSearch Project
+OpenSearch Service
