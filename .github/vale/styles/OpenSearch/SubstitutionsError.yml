@@ -4,6 +4,7 @@ ignorecase: true
 level: error
 swap:
   'command-line interface': command line interface
+  'data set': dataset
   'for information on': for information about
   'for more information on': for more information about
   'geo hash': geohash
