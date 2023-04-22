@@ -1,6 +1,7 @@
 extends: existence
 message: "Add a trailing slash to the link '%s'."
 level: error
+scope: raw
 tokens:
   - '\]\(\{\{site.url\}\}\{\{site.baseurl\}\}(?:(.*))?([^\/])\)'
   - '\]\(((http(s)?):\/\/)?(?:(.*))?([^\/])\)'
