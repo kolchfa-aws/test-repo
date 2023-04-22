@@ -2,6 +2,8 @@
 [Dd]eserialize
 [Dd]eserialization
 [Ff]ailover
+[Gg]eopoint
+[Gg]eoshape
 [Ii]initializer
 [Kk]eystore
 [Mm]ultiline
