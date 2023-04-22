@@ -9,8 +9,12 @@ swap:
   'for more information on': for more information about
   'geo hash': geohash
   'geospacial': geospatial
+  'hard code': hardcode
   'high-performance computing': high performance computing
+  'host name': hostname
   'indices': indexes
+  'kmeans': k-means
+  'kNN': k-NN
   'machine-learning': machine learning
   'nonproduction': non-production
   'postmigration': post-migration
@@ -21,8 +25,14 @@ swap:
   'pre-trained': pretrained
   'premigration': pre-migration
   're-enable': reenable
+  'screen shot': screenshot
   'sample request': example request
   'sample response': example response
   'stand-alone': standalone
+  'time series data': time-series data
+  'time stamp': timestamp
+  'timezone': time zone
+  'U.S.': US
   'web page': webpage
   'web site': website
+
