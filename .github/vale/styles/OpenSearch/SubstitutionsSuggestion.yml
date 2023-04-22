@@ -3,7 +3,13 @@ message: "Use '%s' instead of '%s'."
 ignorecase: true
 level: suggestion
 swap:
-  'it is recommended': we recommend
-  'repo': repository
-  'as well as': 'in addition to/and'
   'app server': application server
+  'as well as': 'in addition to/and'
+  'due to': because of
+  'it is recommended': we recommend
+  'leverage': use
+  'life cycle': lifecycle
+  'navigate in': navigate to
+  'wish|desire': want
+  'repo': repository
+  
