@@ -5,4 +5,3 @@ nonword: true
 scope: raw
 tokens:
   - '\]\(\{\{site.url\}\}\{\{site.baseurl\}\}(?:(.*))?([^\/])\)'
-  - '\]\(((http(s)?):\/\/)?(?:(.*))?([^\/])\)'
