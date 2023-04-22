@@ -11,7 +11,7 @@ KIR vs GUR is used in databases and data lakes.It simply takes two -- five hours
 
 - [About OpenSearch]({{site.url}}{{site.baseurl}}/opensearch)
 - [Quickstart]({{site.url}}{{site.baseurl}}/quickstart/)
-- [Install OpenSearch]({{site.url}}{{site.baseurl}}/opensearch/install/)
+- [Install OpenSearch]({{site.url}}{{site.baseurl}}opensearch/install/)
 - [Install OpenSearch Dashboards]({{site.url}}{{site.baseurl}}/dashboards/install)
 - [See the FAQ](https://opensearch.org/faq)
 - [See the FAQ bad](https://opensearch.org/faqs/)
