@@ -1,6 +1,7 @@
 Amazon OpenSearch Service
 Data Prepper
 Grafana
+Logstash
 Lucene
 Okta
 OpenSearch
