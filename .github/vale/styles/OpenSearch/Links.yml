@@ -1,6 +1,5 @@
 extends: existence
 message: "Add a trailing slash to the link '%s'."
-nonword: true
 level: error
 tokens:
   - '\]\(\{\{site.url\}\}\{\{site.baseurl\}\}(?:(.*))?([^\/])\)'
