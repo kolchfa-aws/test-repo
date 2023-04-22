@@ -7,3 +7,4 @@ OpenSearch
 OpenSearch Dashboards
 OpenSearch Project
 OpenSearch Service
+Performance Analyzer
