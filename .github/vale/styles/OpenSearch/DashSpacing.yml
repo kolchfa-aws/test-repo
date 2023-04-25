@@ -1,9 +1,10 @@
 extends: existence
 message: "There should be no spaces around the '%s' dash."
 ignorecase: true
+scope: text
 nonword: true
 level: error
 tokens:
-  - ' +-{2,3} +'
-  - '-{2,3} +'
-  - ' +-{2,3}'
+  - '\w+ +-{2,3} +\w+'
+  - '\w+-{2,3} +\w+'
+  - '\w+ +-{2,3}\w+'
