@@ -24,5 +24,6 @@ jobs:
         with:
           fail_on_error: false
           reporter: github-pr-check
+          files: __onlyModified
           #separator: '_'
           
