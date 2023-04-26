@@ -18,11 +18,16 @@ jobs:
         uses: actions/checkout@v3
      
       - name: Get changed files
-        uses: trilom/file-changes-action@v1.2.4
+        id: files
+        uses: lots0logs/gh-action-get-changed-files@2.1.4
         with:
-          output: ','
-          fileOutput: ','
-
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Print file names
+        run: |
+          echo "Style check is checking the following files:"
+          cat ${HOME}/files.json
+          
       - name: Run vale
         uses: errata-ai/vale-action@reviewdog
         env:
@@ -30,6 +35,5 @@ jobs:
         with:
           fail_on_error: false
           reporter: github-pr-check
-          files: '${{ steps.file_changes_outputs_files }}'
-          separator: ','
+          files: '${{ steps.files.outputs.all }}'
           
