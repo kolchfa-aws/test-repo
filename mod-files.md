@@ -9,3 +9,7 @@ Hot shard identification Root Cause Analysis (RCA) lets you can identify a hot s
 - Heap allacation rate
 
 Shards may become hot because of the nature of your workload. When you use a `_routing` parameter or a custom document ID, a specific shard or several shards within the cluster receive frequent updates, consuming more CPU and heap resources than other shards.
+
+### Modification in Modified Test 1
+
+This is a test vs. the hot shard identification RCA compares the CPU utilization.
