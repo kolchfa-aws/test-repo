@@ -10,3 +10,5 @@ The pets include cats, dogs and parrots.
 In the steps below you can find relevant infirmation.
 
 The modification is such that i.e. one, two and three.
+
+This last modification should be flagged.
