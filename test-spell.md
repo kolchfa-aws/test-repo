@@ -44,7 +44,7 @@ Verify the OpenSearch won't install by running the script. To failover systems, 
 - [permanently redirected](https://curl.haxx.se/)
 {: .note}
 
-Cyber-security'll allow you to add `doc_as_upsert` to the request and set it to `true` to use the in `doc` for performing the upsert operation in cyber-security. For performance analyzer to work, do this.
+Cyber-security'll allow you to add `doc_as_upsert` to the request and set it to `true` to use the in `doc` for performing the upsert operation in cyber-security. For performance analyzer to work, do this. Then, do the below.
 
 Table header | Table Wrong
 :--- | :---
@@ -54,8 +54,4 @@ Cell 3 | cell 4
 ### This Is A Test.
 ## Of the emergency broadcast system
 
-To index documents (e.g. data) do this and this. It is recommended to click the button on top.
-<<<<<<< HEAD
-=======
-# Installs
->>>>>>> 680c8219 (Add CI with link checker. (#3584))
+To index documents (e.g. data) do this and this. It is recommended to click the button on top. thish isi a testsh above.
