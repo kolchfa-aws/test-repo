@@ -16,24 +16,12 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v3
-     
-      - name: Get changed files
-        id: files
-        uses: lots0logs/gh-action-get-changed-files@2.1.4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Print file names
-        run: |
-          echo "Style check is checking the following files:"
-          cat ${HOME}/files.json
-          
+
       - name: Run vale
         uses: errata-ai/vale-action@reviewdog
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
           fail_on_error: false
-          reporter: github-pr-check
-          files: '${{ steps.files.outputs.all }}'
+          reporter: github-pr-review
           
