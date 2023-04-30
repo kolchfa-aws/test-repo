@@ -16,8 +16,20 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v3
-
-      - name: Run vale
+      
+      - name: Get changed files
+        id: files
+        uses: jitterbit/get-changed-files@v1
+        with:
+          format: 'json'
+          
+      - name: Pring files
+        run: |
+          for changed_file in ${{ steps.files.outputs.added_modified }}; do
+            echo "Vale will run on ${changed_file}."
+          done
+          
+      - name: Run Vale
         uses: errata-ai/vale-action@reviewdog
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
@@ -25,3 +37,7 @@ jobs:
           fail_on_error: true
           reporter: github-pr-check
           filter_mode: file
+          debug: true
+          files: '${{  steps.files.outputs.added_modified }}'
+
+
