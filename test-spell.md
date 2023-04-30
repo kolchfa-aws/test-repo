@@ -55,7 +55,3 @@ Cell 3 | cell 4
 ## Of the emergency broadcast system
 
 To index documents (e.g. data) do this and this. It is recommended to click the button on top.
-<<<<<<< HEAD
-=======
-# Installs
->>>>>>> 680c8219 (Add CI with link checker. (#3584))
