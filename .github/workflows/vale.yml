@@ -19,11 +19,11 @@ jobs:
       
       - name: Get changed files
         id: files
-        uses: jitterbit/get-changed-files@v1
+        uses: masesgroup/retrieve-changed-files@v2
         with:
           format: 'json'
           
-      - name: Pring files
+      - name: Print files
         run: |
           for changed_file in ${{ steps.files.outputs.added_modified }}; do
             echo "Vale will run on ${changed_file}."
