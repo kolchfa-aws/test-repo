@@ -1,6 +1,8 @@
 # This is A test
+
+This resolves stacked headings.
  
-### Get started with Pull Requests
+### Get started with pull requests
 
 Hot shard identification Root Cause Analysis (RCA) lets you can identify a hot shard within an index. A hot shard is an outlier that consumes more resources than other shards and may lead to poor indexing and search performance. The hot shard identification RCA monitors the following metrics:
 
