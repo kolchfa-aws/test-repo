@@ -5,10 +5,10 @@
 
 The following section describes how to get started.
  
-The WHO (World Health Organization) is an AI v. ML organization . 
+The WHO (World Health Organization) is an AI v. ML organization found. 
 Artificial intelligence and machine learning (AI/ML) is used to do the [the following].
 Query Domain Specific Language (DSL) v2.3 is a simple query language. AI/ML Query DSL is used in OpenSearch, something else, and something else!
-KIR vs GUR is used for cyber security in databases and data lakes.It simply takes two -- five hours or this ---  days.times.periods. Doing so will master slave the workflow simply via of this versus that. This takes 2 mb of memory. Use the steps below to do this:
+KIR vs GUR is used for cyber security in databases and data lakes.It simply takes two -- five hours or this ---  days.times.periods. Doing so will master slave the workflow simply via of this versus that. This takes 2 mb of memory in the geo hash. Use the steps below to do this:
 
 - [About OpenSearch]({{site.url}}{{site.baseurl}}opensearch)
 - [Quickstart]({{site.url}}{{site.baseurl}}/quickstart/)
@@ -44,7 +44,7 @@ Verify the OpenSearch won't install by running the script. To failover systems, 
 - [permanently redirected](https://curl.haxx.se/)
 {: .note}
 
-Cyber-security'll allow you to add `doc_as_upsert` to the request and set it to `true` to use the in `doc` for performing the upsert operation in cyber-security. For performance analyzer to work, do this.
+Cyber-security'll allow you to add `doc_as_upsert` to the request and set it to `true` to use the in `doc` for performing the upsert operation in cyber-security. For performance analyzer to work, do implemented.
 
 Table header | Table Wrong
 :--- | :---
