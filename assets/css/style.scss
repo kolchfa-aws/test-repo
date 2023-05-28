@@ -42,17 +42,14 @@ body {
 .copy-banner {
     background: $background-darkest;
     padding: 1px 10px;
-    display: none;
-  
-    @include mq(md) {
-      display: block;
-      padding: 1px 0;
-      position: absolute;
-      left: 0;
-      right: 0;
-      z-index: 2;
-      top: 0;
-    }
+   
+    display: block;
+    padding: 1px 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    top: 0;
   
     h1 {
       @include sans-serif;
