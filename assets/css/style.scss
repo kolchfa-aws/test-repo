@@ -1,0 +1,93 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$background-darkest:  #D9E1E2;
+
+@mixin serif {
+    font-family: "Noto Serif", 'Iowan Old Style', 'Apple Garamond', 'Baskerville', 'Times New Roman', serif;
+  }
+  
+  @mixin sans-serif {
+    font-family: "Open Sans", "Segoe UI", Tahoma, sans-serif;
+  
+  }
+  
+  @mixin monospace {
+    font-family: "Fira Mono", Consolas, Menlo, Monaco, "Courier New", Courier, monospace;
+    font-variant-ligatures: no-common-ligatures;  // disables the common ligatures only
+    text-rendering: optimizeSpeed;  // for Safari 7.x
+  }
+  
+  @mixin heading-sans-serif {
+    font-family: "Open Sans Condensed", Impact, "Franklin Gothic Bold", sans-serif;
+  }
+  
+  // Font Sizing Mixin (http://css-tricks.com/snippets/css/less-mixin-for-rem-font-sizing/)
+  @mixin font-size ( $size: 16, $important: false ) {
+    @if $important {
+      font-size: $size + px !important;
+      font-size: $size/16 + rem !important;
+    }
+    @else {
+      font-size: $size + px;
+      font-size: $size/16 + rem;
+    }
+  }
+  
+  body {
+    @include sans-serif;
+  }
+
+.copy-banner {
+    background: $background-darkest;
+    padding: 1px 10px;
+    display: none;
+  
+    @include mq(md) {
+      display: block;
+      padding: 1px 0;
+      position: absolute;
+      left: 0;
+      right: 0;
+      z-index: 2;
+      top: 0;
+    }
+  
+    h1 {
+      @include sans-serif;
+      @include font-size(24, true);
+      color: $core;
+      font-weight: 300;
+      line-height: 1.3;
+      padding: 1px 0 6px;
+      margin: .45em 0 .35em;
+      letter-spacing: -1px;
+  
+      @include mq(md) {
+        @include font-size(32, true);
+  
+        margin: .35em 0 .35em;
+        color: $highlight;
+        padding: 1px 0 6px;
+  
+      }
+  
+      a {
+        font-weight: 300;
+        background: none;
+        color: $text-link-alternate;
+  
+        &:hover, :active {
+          background: none;
+        }
+      }
+    }
+  
+    .container {
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
+    }
+  
