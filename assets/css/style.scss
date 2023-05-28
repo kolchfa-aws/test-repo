@@ -97,14 +97,11 @@ h1 {
     margin: .45em 0 .35em;
     letter-spacing: -1px;
 
-    @include mq(md) {
     @include font-size(32, true);
 
     margin: .35em 0 .35em;
     color: $highlight;
     padding: 1px 0 6px;
-
-    }
 
     a {
     font-weight: 300;
