@@ -30,7 +30,6 @@ During the bootstrap of OpenSearch node, it class loads all the code under `~/pl
 
 ## Extensions Architecture
 
-![](Docs/Extensions.png)
 
 Extensions are independent processes which are built using `opensearch-sdk-java`. They communicate with OpenSearch via [transport](https://github.com/opensearch-project/OpenSearch/tree/main/modules/transport-netty4) protocol which today is used to communicate between OpenSearch nodes.
 
@@ -123,13 +122,11 @@ The `ExtensionsManager` reads a list of extensions present in `extensions.yml`. 
 
 Extensions may invoke actions on other extensions using the `ProxyAction` and `ProxyActionRequest`. The code sequence is shown below.
 
-![](Docs/RemoteActionExecution.svg)
 
 #### Extension Point Implementation Walk Through
 
 An example of a more complex extension point, `getNamedXContent()` is shown below. A similar pattern can be followed for most extension points.
 
-![](Docs/NamedXContent.svg)
 
 ##### Extension Startup
 
