@@ -1,4 +1,3 @@
-theme: just-the-docs
 title: OpenSearch SDK for Java Extension Documentation
 description: Learn how to create extensions for OpenSearch
 remote_theme: pmarsceill/just-the-docs@v0.3.3
