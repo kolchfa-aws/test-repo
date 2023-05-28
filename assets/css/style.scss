@@ -7,38 +7,37 @@ $background-darkest:  #D9E1E2;
 
 @mixin serif {
     font-family: "Noto Serif", 'Iowan Old Style', 'Apple Garamond', 'Baskerville', 'Times New Roman', serif;
-  }
-  
-  @mixin sans-serif {
+}
+
+@mixin sans-serif {
     font-family: "Open Sans", "Segoe UI", Tahoma, sans-serif;
-  
-  }
-  
-  @mixin monospace {
+}
+
+@mixin monospace {
     font-family: "Fira Mono", Consolas, Menlo, Monaco, "Courier New", Courier, monospace;
     font-variant-ligatures: no-common-ligatures;  // disables the common ligatures only
     text-rendering: optimizeSpeed;  // for Safari 7.x
-  }
-  
-  @mixin heading-sans-serif {
+}
+
+@mixin heading-sans-serif {
     font-family: "Open Sans Condensed", Impact, "Franklin Gothic Bold", sans-serif;
-  }
-  
-  // Font Sizing Mixin (http://css-tricks.com/snippets/css/less-mixin-for-rem-font-sizing/)
-  @mixin font-size ( $size: 16, $important: false ) {
+}
+
+// Font Sizing Mixin (http://css-tricks.com/snippets/css/less-mixin-for-rem-font-sizing/)
+@mixin font-size ( $size: 16, $important: false ) {
     @if $important {
-      font-size: $size + px !important;
-      font-size: $size/16 + rem !important;
+        font-size: $size + px !important;
+        font-size: $size/16 + rem !important;
     }
     @else {
-      font-size: $size + px;
-      font-size: $size/16 + rem;
+        font-size: $size + px;
+        font-size: $size/16 + rem;
     }
-  }
-  
-  body {
+}
+
+body {
     @include sans-serif;
-  }
+}
 
 .copy-banner {
     background: $background-darkest;
@@ -90,4 +89,4 @@ $background-darkest:  #D9E1E2;
       flex-flow: row nowrap;
       align-items: center;
     }
-}
+  }
