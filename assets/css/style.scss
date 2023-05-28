@@ -122,7 +122,6 @@ h1 {
 
 [role="banner"] {
     // Includes global navigation, logo, and tagline at top of document
-    @include clearfix;
     background: $accent-dark;
     overflow: hidden;
     margin: 0;
