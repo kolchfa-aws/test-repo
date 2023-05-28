@@ -37,7 +37,6 @@ jobs:
           fail_on_error: true
           reporter: github-pr-check
           filter_mode: file
-          debug: true
           files: '${{  steps.files.outputs.added_modified }}'
 
 
