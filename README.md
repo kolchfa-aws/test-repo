@@ -9,6 +9,10 @@ For information about developing an extension, see [CREATE_YOUR_FIRST_EXTENSION]
 ## Developer Guide
 For instructions on building, testing, and running an extension, see the [DEVELOPER_GUIDE](DEVELOPER_GUIDE.md).
 
+## Javadoc
+
+Here's the [javadoc](javadoc/index.html).
+
 # Getting started (GST).
  
  
