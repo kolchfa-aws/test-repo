@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: OpenSearch SDK for Java Extension Documentation
 description: Learn how to create extensions for OpenSearch
