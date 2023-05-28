@@ -1,0 +1,10 @@
+org.opensearch.sdk
+org.opensearch.sdk.action
+org.opensearch.sdk.api
+org.opensearch.sdk.handlers
+org.opensearch.sdk.rest
+org.opensearch.sdk.sample.helloworld
+org.opensearch.sdk.sample.helloworld.rest
+org.opensearch.sdk.sample.helloworld.transport
+org.opensearch.sdk.ssl
+org.opensearch.sdk.ssl.util
