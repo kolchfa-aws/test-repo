@@ -1,3 +1,3 @@
-# This is the design document
+# Extension design
 
 Where you will learn design and architecture of the system.

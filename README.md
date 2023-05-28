@@ -1,4 +1,4 @@
-# This is the README file
+# OpenSearch SDK for Java
 
 ## Design
 For an overview of extension architecture and information about how extensions work, see [DESIGN](DESIGN.md).
