@@ -45,6 +45,17 @@ $text-link-alternate-darker: #00529e;
     font-family: "Open Sans", "Segoe UI", Tahoma, sans-serif;
 }
 
+@mixin font-size ( $size: 16, $important: false ) {
+    @if $important {
+      font-size: $size + px !important;
+      font-size: $size/16 + rem !important;
+    }
+    @else {
+      font-size: $size + px;
+      font-size: $size/16 + rem;
+    }
+  }
+
 body {
     @include sans-serif;
 }
