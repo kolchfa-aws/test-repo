@@ -1,8 +1,7 @@
-<div class="link-wrapper">
+<div class="link-wrapper" style="margin-bottom: 20px">
     <ul class="link">
       {%- for topic in site.sidenav %}
-        <li></li><a href="{{ topic.link | relative_url }}">{{ item.title }}</a></li>
-        <!--<li><a href="{{ topic.link }}">{{ topic.name }}</a></li>-->
+        <li><a href="{{ topic.link }}">{{ topic.name }}</a></li>
       {%- endfor %}
     </ul>
 </div>
