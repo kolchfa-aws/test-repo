@@ -5,10 +5,10 @@ logo: /assets/img/logo.png
 
 sidenav:
   - name: Design
-    link: DESIGN.md
+    link: DESIGN.html
   - name: Developer Guide
-    link: DEVELOPER_GUIDE.md
+    link: DEVELOPER_GUIDE.html
   - name: Create your first extension
-    link: CREATE_YOUR_FIRST_EXTENSION.md
+    link: CREATE_YOUR_FIRST_EXTENSION.html
   - name: Plugin migration
-    link: PLUGIN_MIGRATION.md
+    link: PLUGIN_MIGRATION.html
