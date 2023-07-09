@@ -19,11 +19,11 @@
 ul.link {
     list-style-type: none; 
     margin: 0; 
-    padding: 0.5rem;
+    padding: 0;
 }
 
 ul.link li + li {
-    margin-top: 0.5rem;
+    margin-top: 1rem;
 }
 
 ul.link:last-child {
