@@ -7,7 +7,7 @@ google_analytics:
 
 sidenav:
   - name: Design
-    link: DESIGN.md
+    link: DESIGN.html
   - name: Developer Guide
     link: DEVELOPER_GUIDE.md
   - name: Create your first extension
