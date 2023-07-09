@@ -2,12 +2,11 @@ title: OpenSearch SDK for Java
 description: Extension Documentation
 theme: jekyll-theme-minimal
 logo: logo.png
-show_downloads: false
-google_analytics:
+show_downloads: true
 
 sidenav:
   - name: Design
-    link: DESIGN.html
+    link: /DESIGN.html
   - name: Developer Guide
     link: DEVELOPER_GUIDE.md
   - name: Create your first extension
