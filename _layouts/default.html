@@ -23,16 +23,16 @@
         {% endif %}
 
         {% include sidenav.html %}
+        <footer>
+          <p class="view"><a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a></p>
+          <p><a href="https://opensearch.org/docs">OpenSearch user documentation</a></p>
+        </footer>
       </header>
       <section>
 
       {{ content }}
 
-      </section>
-      <footer>
-        <p class="view"><a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a></p>
-        <p><a href="https://opensearch.org/docs">OpenSearch user documentation</a></p>
-      </footer>
+      </section>    
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
