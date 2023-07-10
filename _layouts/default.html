@@ -20,12 +20,12 @@
           <p>{{ site.description | default: site.github.project_tagline }}</p>
 
           {% if site.logo %}
-            <img src="{{site.logo | relative_url}}" alt="OpenSearch Logo" />
+            <img src="{{site.logo | relative_url}}" width=50 alt="OpenSearch Logo" />
           {% endif %}
 
           {% include sidenav.html %}
 
-          <p class="view"><a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a></p>
+          <p><a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a></p>
           <p><a href="https://opensearch.org/docs">OpenSearch user documentation</a></p>
         </header>
       </div>
