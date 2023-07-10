@@ -1,6 +1,19 @@
 # OpenSearch SDK for Java
 
-## Design
+* [OpenSearch SDK for Java](#opensearch-sdk-for-java)
+  * [Introduction](#introduction)
+  * [Design](#design)
+  * [Creating an extension](#creating-an-extension)
+  * [Developer Guide](#developer-guide)
+  * [Plugin migration](#plugin-migration)
+  * [Contributing](#contributing)
+  * [Maintainers](#maintainers)
+  * [Code of Conduct](#code-of-conduct)
+
+To view extension documentation as a webpage, go to [https://opensearch-project.github.io/opensearch-sdk-java/](https://opensearch-project.github.io/opensearch-sdk-java/).
+
+## Introduction
+
 For an overview of extension architecture and information about how extensions work, see [DESIGN](DESIGN.md).
 
 ## Creating an extension
