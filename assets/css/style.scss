@@ -34,32 +34,3 @@ ul.link:last-child {
     margin-bottom: 0.5rem;
 }
 
-.sidenav {
-    width: 270px;
-    float: left;
-    position:fixed;
-    top: 0;
-    padding: 5rem 0 4rem 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: calc(100vh - 9rem);
-    overflow-x: hidden;
-    overflow-y: scroll;
-  }
-
-  .sidenav-footer {
-    flex-basis: content;
-  }
-
-  .sidebar, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
-
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
-  }
