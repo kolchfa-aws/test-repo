@@ -1,6 +1,8 @@
 title: OpenSearch SDK for Java 
 description: Extension Documentation
-theme: jekyll-theme-minimal
+remote_theme: "godalming123/minimal"
+plugins:
+- jekyll-remote-theme
 logo: /assets/img/logo.png
 
 sidenav:
