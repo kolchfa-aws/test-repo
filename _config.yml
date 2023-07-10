@@ -12,3 +12,7 @@ sidenav:
     link: CREATE_YOUR_FIRST_EXTENSION.md
   - name: Plugin migration
     link: PLUGIN_MIGRATION.md
+  - name: Contributing
+    link: CONTRIBUTING.md
+  - name: Maintainers
+    link: MAINTAINERS.md
